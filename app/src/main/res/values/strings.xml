@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NotepadExample</string>
+    <string name="no_note">Chưa có ghi chú!</string>
+    <string name="add_note">Tạo mới</string>
+    <string name="title_activity_note_edit">NoteEdit</string>
+    <string name="title_edit_note">Tiêu đề</string>
+    <string name="body_edit_note">Nội dung</string>
+    <string name="body_edit_note_date">01/18/2018 3:32 PM</string>
+    <string name="toast_saved">Đã lưu</string>
+    <string name="menu_delete">Xóa</string>
+</resources>
